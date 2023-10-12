@@ -29,7 +29,7 @@ function App(): JSX.Element {
       <View style={styles.containerStyle}>
         <Text style={styles.headerText}>Video Feed</Text>
         <View style={styles.videoView}>
-          <Text style={{color: 'white'}}>Video Placeholder</Text>
+          <Text style={{color: 'white'}}>.</Text>
         </View>
         <View style={styles.buttonView}>
           <TouchableHighlight style={styles.controlButtons}>
